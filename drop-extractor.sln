@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "drop-extractor", "drop-extractor\drop-extractor.pyproj", "{9CB26C0B-8261-415E-895C-5B5B23F59726}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CB26C0B-8261-415E-895C-5B5B23F59726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB26C0B-8261-415E-895C-5B5B23F59726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB579FF4-F25D-4091-AE84-83B3AC791AEE}
+	EndGlobalSection
+EndGlobal
